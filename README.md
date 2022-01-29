@@ -17,10 +17,10 @@ First clone the repository:
 git clone https://github.com/SlothFi/bank-sdk.git
 ```
 
-Move into the uniswap-sdk working directory
+Move into the bank-sdk working directory
 
 ```sh
-cd uniswap-sdk/
+cd bank-sdk/
 ```
 
 Install dependencies
