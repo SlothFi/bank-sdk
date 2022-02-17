@@ -1351,6 +1351,11 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
+"@slothfi/bank-core@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/bank-core-1.0.0.tgz#e8782165488f05645be8a55006ee7e1a4b2ca8d7"
+  integrity sha512-gylmpKvgeViFVOpWh7fkYfHgBuis7efnRAWDrm4zvRnCRqD4kjHrbR/bysjDWseRORrSdnlbh3KI99ljEb9vbw==
+
 "@types/babel__core@^7.1.0":
   version "7.1.14"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.14.tgz#faaeefc4185ec71c389f4501ee5ec84b170cc402"
@@ -1546,11 +1551,6 @@
     lodash "^4.17.15"
     semver "^7.3.2"
     tsutils "^3.17.1"
-
-"@slothfi/bank-core@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/core-1.0.0.tgz#f1336702e8ecce6b79b06212220da43a34b3749c"
-  integrity sha512-cd4+e5KKH7QmSjMhe50lty35eHuZVTh9YYnkWPdQPe6KG3R5P5JE3LFliwNLpuV4jWEYYRlEa3OaG3ie+BlYrg==
 
 abab@^2.0.0:
   version "2.0.5"
