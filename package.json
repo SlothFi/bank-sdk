@@ -1,7 +1,7 @@
 {
   "name": "@slothfi/bank-sdk",
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "🛠 An SDK for building applications on top of DeFimons  .",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@slothfi/bank-core": "^1.0.0",
+    "@slothfi/bank-core": "^1.0.3",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
